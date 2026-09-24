@@ -1,0 +1,10 @@
+# Database files
+*.db
+expenses
+
+# PyCharm project files
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
