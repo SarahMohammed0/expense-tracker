@@ -7,8 +7,8 @@ an expense tracker built using python and SQL
 - Filter expenses by date rane
 
 ## Tech stack
--python
--SQLite (using python's built in 'sqlite3')
+- python
+- SQLite (using python's built in 'sqlite3')
 
 ## How to run
 1. Clone this repository
@@ -16,6 +16,6 @@ an expense tracker built using python and SQL
 3. Run : python database.py
 
 ## What i learned
--Building a menu driven command line
+- Building a menu driven command line
 - writing SQL quesries (INSERT, SELECT, DELETE, SUM. GROUP BY)
 - Debugging errors in code
